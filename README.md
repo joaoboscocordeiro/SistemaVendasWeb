@@ -12,5 +12,5 @@ Aplicação Completa Para Vendas.
 ----------------------------------------------------------------------------------------------------
 
 <div align-"center">
-  <img src="https://github.com/joaoboscocordeiro/SistemaVendasWeb/issues/1" width="700px" />
+  <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/7418b781-c901-4d6f-bac4-553aeccee218" />
 </div>
