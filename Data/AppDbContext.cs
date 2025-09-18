@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using SistemaVendasWeb.Models;
 
 namespace SistemaVendasWeb.Data
 {
@@ -7,5 +8,7 @@ namespace SistemaVendasWeb.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
         }
+        public DbSet<UsuarioModel> Usuarios { get; set; }
+        public DbSet<AuditoriaModel> Auditorias { get; set; }
     }
 }
